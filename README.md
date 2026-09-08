@@ -40,3 +40,8 @@ Note that items are in order as they appear in the inventory, and you can use th
 - Helmets: Shadow - Fusion
 - Armor: Night - Omega XOS-7
 - Rings: Soulless Circle - Thorne
+## Potential Future Plans
+- Customizable goal
+  - Choose between only needing to defeat the God King, only Archarin, or both.
+- Remove Infinity Blade logic
+  - Takes some power away from the Infinity Blade by making it only serve as a gate for the ending and not be taken into account for combat logic.

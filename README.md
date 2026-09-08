@@ -1,10 +1,15 @@
 # Infinity Blade Manual APWorld
 This is a manual of the classic grossing iOS mobile game, made accessible to play again in recent years after being basically lost to time thanks to the PC port. This manual involves the use of a custom save that starts you off at max level with every stat upgrade unredeemed, and with access to all different armor and equipment.
+
+This first entry in the trilogy is smaller than the others so it doesn't have as many checks, but it has fairly intricate logic that aims to make use of different combinations of equipment tiers, health, attack, shield, and magic upgrades.
+## Save File Installation
+The included save file starts you at Bloodline 1 with all equipment mastered along with 309 unredeemed skill points.
+
+To install it, place `SwordSave.bin` into `Documents\My Games\Infinity Blade\SwordGame\Saves`.
 ## Items
-- Equipment and armor
-- Progressive Equipment Tiers (determines what armor/equipment you can use according to the list below)
-- Health/Shield/Attack/Magic Upgrades
-- The Infinity Blade (gates access to the ending, and also gives a major attack boost if received earlier)
+- Skill point upgrades (3 upgrades of +25 points for each of the 4 skills, totaling 12, and if all are obtained, add up to 300) (not quite 309 but close enough)
+- Three Progressive Equipment Tiers (which equipment you can utilize for each tier will be detailed below)
+- The Infinity Blade (separate entirely from the equipment tiers as it is a crucial item that progresses the story. This means you can get it earlier than the highest equipment tier and have a powerful weapon, which logic accounts for.)
 ## Locations
 - Defeating enemies (One per location. Defeating enemies in the same location on different bloodlines does not count as multiple checks)
 - Opening chests (Same rule as above: each location is per-game, not per-bloodline)

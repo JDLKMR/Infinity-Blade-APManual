@@ -1,0 +1,12 @@
+{
+  "Deathless Chambers": {
+    "connects_to": [
+      "Rebirth Chamber"
+    ],
+    "requires": "|The Infinity Blade| AND |God King Defeated|"
+  },
+  "Rebirth Chamber": {
+    "connects_to": [],
+    "requires": "|Deathless Kings Defeated|"
+  }
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Defeat First Enemy",
+    "category": [
+      "1 - River"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Enemy at Gate",
+    "category": [
+      "2 - Outer Gate"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chest Near Gate",
+    "category": [
+      "2 - Outer Gate"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Enemy on Balcony",
+    "category": [
+      "3 - Courtyard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chest on Balcony",
+    "category": [
+      "3 - Courtyard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Large Enemy at Statue",
+    "category": [
+      "3 - Courtyard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chest Near Statue",
+    "category": [
+      "3 - Courtyard"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Enemy on Bridge",
+    "category": [
+      "4 - Atrium Entrance"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Large Enemy Behind Lower Doorway",
+    "category": [
+      "4 - Atrium Entrance"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chest Near Lower Doorway",
+    "category": [
+      "4 - Atrium Entrance"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Enemy at Stairs",
+    "category": [
+      "4 - Atrium Entrance"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Enemy at Upper Doorway",
+    "category": [
+      "4 - Atrium Entrance"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chest Near Upper Doorway",
+    "category": [
+      "4 - Atrium Entrance"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Large Enemy in Atrium",
+    "category": [
+      "5 - Atrium"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chest in Atrium",
+    "category": [
+      "5 - Atrium"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat the Dark Knight",
+    "category": [
+      "6 - Throne Room"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chest in Front of God King",
+    "category": [
+      "6 - Throne Room"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat the God King",
+    "category": [
+      "6 - Throne Room"
+    ],
+    "requires": "|The Infinity Blade| OR |+25 Attack:2| OR (|+25 Health:1| AND (|+25 Attack:1| OR |+25 Magic:2|)) OR |Progressive Equipment Tier:1|"
+  },
+  {
+    "name": "Defeat Large Enemy in Prison",
+    "category": [
+      "7 - Prison"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Chest in Prison",
+    "category": [
+      "7 - Prison"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Second Enemy in Prison",
+    "category": [
+      "7 - Prison"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Enemy at Stairs Going Up",
+    "category": [
+      "8 - Dungeon"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Defeat Kuero",
+    "category": [
+      "8 - Dungeon"
+    ],
+    "requires": "",
+    "region": "Deathless Chambers"
+  },
+  {
+    "name": "Defeat Gortoel",
+    "category": [
+      "8 - Dungeon"
+    ],
+    "requires": "(|+25 Health:1| AND |+25 Shield:1|) OR |Progressive Equipment Tier:1|",
+    "region": "Deathless Chambers"
+  },
+  {
+    "name": "Defeat Ealoseum",
+    "category": [
+      "8 - Dungeon"
+    ],
+    "requires": "|+25 Health:2| OR (|+25 Health:1| AND |Progressive Equipment Tier:1|) OR |Progressive Equipment Tier:2|",
+    "region": "Deathless Chambers"
+  },
+  {
+    "name": "Defeat Zero Mech/Archarin",
+    "victory": true,
+    "category": [
+      "9 - Rebirth Chamber"
+    ],
+    "requires": "(|+25 Health:3| AND |+25 Shield:2|) OR (|+25 Health:3| AND |+25 Shield:1| AND |Progressive Equipment Tier:1|) OR (|+25 Health:2| AND |Progressive Equipment Tier:2|) OR (|+25 Health:1| AND |Progressive Equipment Tier:3|)",
+    "region": "Rebirth Chamber"
+  },
+  {
+    "name": "(EVENT) God King Defeated",
+    "category": [
+      "6 - Throne Room"
+    ],
+    "requires": "|The Infinity Blade| OR |+25 Attack:2| OR (|+25 Health:1| AND (|+25 Attack:1| OR |+25 Magic:2|)) OR |Progressive Equipment Tier:1|",
+    "place_item": [
+      "God King Defeated"
+    ]
+  },
+  {
+    "name": "(EVENT) Deathless Kings Defeated",
+    "region": "Deathless Chambers",
+    "category": [
+      "8 - Dungeon"
+    ],
+    "requires": "((|+25 Health:1| AND |+25 Shield:1|) OR |Progressive Equipment Tier:1|) AND (|+25 Health:2| OR (|+25 Health:1| AND |Progressive Equipment Tier:1|) OR |Progressive Equipment Tier:2|)",
+    "place_item": [
+      "Deathless Kings Defeated"
+    ]
+  }
+]

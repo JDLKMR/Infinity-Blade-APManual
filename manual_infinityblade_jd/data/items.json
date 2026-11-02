@@ -1,0 +1,66 @@
+[
+  {
+    "count": "3",
+    "name": "Progressive Equipment Tier",
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "+25 Health",
+    "category": [
+      "Stat Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "+25 Attack",
+    "category": [
+      "Stat Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "+25 Shield",
+    "category": [
+      "Stat Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "+25 Magic",
+    "category": [
+      "Stat Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Infinity Blade",
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "God King Defeated",
+    "category": [
+      "Bosses Defeated"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deathless Kings Defeated",
+    "category": [
+      "Bosses Defeated"
+    ],
+    "progression": true
+  }
+]
